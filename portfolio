@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Freelancer Skills</title>
+    <style>
+        /* Add your CSS styles here */
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #007bff;
+            color: #fff;
+            text-align: center;
+            padding: 20px;
+        }
+        section {
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            font-size: 24px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Your Name</h1>
+        <p>Freelancer Skills</p>
+    </header>
+    <section>
+        <div class="container">
+            <h2>About Me</h2>
+            <p>
+                Hi, I'm a freelancer with expertise in web development, design, and more. I'm passionate about creating engaging and user-friendly websites and applications.
+            </p>
+        </div>
+    </section>
+    <section>
+        <div class="container">
+            <h2>My Skills</h2>
+            <ul>
+                <li>Web Development</li>
+                <li>Frontend Development</li>
+                <li>Backend Development</li>
+                <li>UI/UX Design</li>
+                <li>Graphic Design</li>
+            </ul>
+        </div>
+    </section>
+    <section>
+        <div class="container">
+            <h2>Portfolio</h2>
+            <!-- Add your portfolio projects here -->
+        </div>
+    </section>
+    <section>
+        <div class="container">
+            <h2>Contact Me</h2>
+            <p>
+                If you're interested in working together or have any questions, feel free to contact me at your@email.com.
+            </p>
+        </div>
+    </section>
+</body>
+</html>
